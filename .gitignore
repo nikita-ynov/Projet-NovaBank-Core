@@ -1,0 +1,8 @@
+logs/
+backup/
+*.dump
+*.csv
+.pgpass
+.env
+*.key
+*.swp
